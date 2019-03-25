@@ -1,0 +1,18 @@
+.navbar {
+    margin-bottom: 20px;
+}
+body {
+    background-size: auto;    
+    background-image: url('https://i.pinimg.com/originals/74/7a/40/747a401c0daac6b580fd1ffc4e5c3039.gif');
+}
+
+
+
+.container {
+    background-image: url('https://i.ytimg.com/vi/nYR42gxw4sE/maxresdefault.jpg');
+}
+
+footer {
+    text-align: center;
+    position: sticky;
+}
