@@ -16,3 +16,21 @@ footer {
     text-align: center;
     position: sticky;
 }
+
+img {
+    animation: example 5s linear 2s infinite alternate;
+}
+
+.col {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.big-box {
+    margin-top: 20px;
+}
+
+h5 {
+    font-size: inherit;
+    color: palevioletred;
+}
